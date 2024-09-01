@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-01T07:17:06" hostname="Jarvis-M3-Pro.local" time="0.067">
+  <properties/>
+  <testcase name="start" classname="Task2Test" time="0.067"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Enter a number and a measure: 
+> 25 kilometers
+25 kilometers is 25000 meters
+?[1;31m
+Start test 2?[0m
+Enter a number and a measure: 
+> 26 KM
+26 kilometers is 26000 meters
+?[1;31m
+Start test 3?[0m
+Enter a number and a measure: 
+> 13 km
+13 kilometers is 13000 meters
+?[1;31m
+Start test 4?[0m
+Enter a number and a measure: 
+> 1 kilometer
+1 kilometer is 1000 meters
+?[1;31m
+Start test 5?[0m
+Enter a number and a measure: 
+> 1 kIlOmeter
+1 kilometer is 1000 meters
+?[1;31m
+Start test 6?[0m
+Enter a number and a measure: 
+> 17 KILOMETERS
+17 kilometers is 17000 meters
+?[1;31m
+Start test 7?[0m
+Enter a number and a measure: 
+> 13 kn
+Wrong input
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

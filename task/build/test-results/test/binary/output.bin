@@ -1,7 +1,35 @@
 [1;31m
 Start test 1[0m
-145 centimeters is 1.45 meters
-2 miles is 3.2187 kilometers
- 5.5 inches is 139.7 millimeters
-.12 degrees Celsius is 53.6 degrees Fahrenheit
-3 pounds is 1.360776 kilograms
+Enter a number and a measure: 
+> 25 kilometers
+25 kilometers is 25000 meters
+[1;31m
+Start test 2[0m
+Enter a number and a measure: 
+> 26 KM
+26 kilometers is 26000 meters
+[1;31m
+Start test 3[0m
+Enter a number and a measure: 
+> 13 km
+13 kilometers is 13000 meters
+[1;31m
+Start test 4[0m
+Enter a number and a measure: 
+> 1 kilometer
+1 kilometer is 1000 meters
+[1;31m
+Start test 5[0m
+Enter a number and a measure: 
+> 1 kIlOmeter
+1 kilometer is 1000 meters
+[1;31m
+Start test 6[0m
+Enter a number and a measure: 
+> 17 KILOMETERS
+17 kilometers is 17000 meters
+[1;31m
+Start test 7[0m
+Enter a number and a measure: 
+> 13 kn
+Wrong input

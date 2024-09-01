@@ -1,13 +1,18 @@
 package converter
 
 fun main() {
-    println(
-        """
-            145 centimeters is 1.45 meters
-            2 miles is 3.2187 kilometers
-            5.5 inches is 139.7 millimeters
-            12 degrees Celsius is 53.6 degrees Fahrenheit
-            3 pounds is 1.360776 kilograms
-        """.trimIndent()
-    )
+    println("Enter a number and a measure: ")
+    val (numberStr, measure) = readln().lowercase().split(" ")
+    val numberInt = numberStr.toInt()
+
+    if (
+        measure != "km" &&
+        measure != "kilometers" &&
+        measure != "kilometer"
+    ) {
+        println("Wrong input")
+        return
+    }
+
+    println("$numberInt kilometer${if (numberInt > 1) 's' else ""} is ${numberInt.toInt() * 1000} meters")
 }
