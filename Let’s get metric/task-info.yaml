@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/converter/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Authors.kt
+    visible: false
+    learner_created: false
+  - name: test/Task2Test.kt
+    visible: false
+    learner_created: false
+  - name: test/TestCaseHelpers.kt
+    visible: false
+    learner_created: false
+  - name: test/WordComparer.kt
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/70/stages/386/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 31 Aug 2024 23:05:00 UTC"
+record: 2

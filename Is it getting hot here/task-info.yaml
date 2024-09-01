@@ -1,0 +1,25 @@
+type: edu
+custom_name: Is it getting hot here?
+files:
+  - name: src/converter/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Authors.kt
+    visible: false
+    learner_created: false
+  - name: test/Task5Test.kt
+    visible: false
+    learner_created: false
+  - name: test/TestCaseHelpers.kt
+    visible: false
+    learner_created: false
+  - name: test/WordComparer.kt
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/70/stages/389/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sun, 01 Sep 2024 07:00:34 UTC"
+record: 5

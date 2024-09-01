@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-01T07:16:11" hostname="Jarvis-M3-Pro.local" time="0.034">
+  <properties/>
+  <testcase name="start" classname="ConverterTest" time="0.034"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+145 centimeters is 1.45 meters
+2 miles is 3.2187 kilometers
+5.5 inches is 139.7 millimeters
+12 degrees Celsius is 53.6 degrees Fahrenheit
+3 pounds is 1.360776 kilograms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
